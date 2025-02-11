@@ -5,4 +5,4 @@
 
 **Magnet Chain** 是新一代高性能Layer 1区块链，采用创新的PoS共识机制，完全兼容EVM，致力于为去中心化应用提供企业级性能支持。
 
-[![项目地址]](https://github.com/MagnetChain/MagnetChain/)
+[[项目地址]](https://github.com/MagnetChain/MagnetChain/)
